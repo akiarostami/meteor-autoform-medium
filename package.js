@@ -11,8 +11,8 @@ Package.onUse(function(api) {
 
   api.use([
     'templating',
-    'aldeed:autoform@5.3.0',
-    'mediumeditor:mediumeditor@5.2.0',
+    'aldeed:autoform@5.*',
+    'mediumeditor:mediumeditor@5.*',
   ], 'client');
 
   // TODO: restore when medium editor fixe deactivate
