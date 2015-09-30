@@ -1,9 +1,9 @@
 Package.describe({
-  name: 'gildaspk:autoform-medium',
+  name: 'akiarostami:autoform-medium',
   version: '0.0.5',
   summary: "Medium editor for AutoForm",
   description: "Medium editor for AutoForm",
-  git: "http://github.com/djhi/meteor-autoform-medium.git"
+  git: "http://github.com/akiarostami/meteor-autoform-medium.git"
 });
 
 Package.onUse(function(api) {
